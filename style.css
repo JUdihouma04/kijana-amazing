@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	box-sizing: border-box;
+}
+body {
+	font-family: montserrat;
+}
+nav {
+	background: black;
+	height: 80px;
+	width: 100%;
+}
+.logo {
+	color: white;
+	font-weight: bold;
+	padding: 100px;
+	line-height: 80px;
+}
+nav ul {
+	float: right;
+	margin-right: 30px;
+}
+nav ul li {
+	display: inline-block;
+	line-height: 80px;
+	margin: 0 5px;
+}
+nav ul li a {
+	color: white;
+	font-size: 15px;
+	padding: 13px;
+	border-radius: 100px;
+}
+a.home,
+a:hover {
+	background: red;
+	transition: 0.5s;
+}
