@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&family=Oleo+Script:wght@400;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,600;1,100;1,200;1,300;1,500&family=Space+Grotesk:wght@300;400;500;700&display=swap");
-* {
+/* * {
 	margin: 0;
 	padding: 0;
 	text-decoration: none;
@@ -40,17 +40,70 @@ nav ul li a {
 a.home,
 a:hover {
 	/* background: red; */
-	transition: 0.5s;
+/* transition: 0.5s;
 	text-decoration: underline;
 	color: red;
+} */
+
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	box-sizing: border-box;
 }
-.actual-lg{
-	height: 400px;
-	width: 230px;
-	margin-left: 300px;
-	margin-top: 50px;
+.menubar {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: black;
+	color: white;
+	width: 100%;
 }
-.hme-pge{
+.logo {
+	width: 20%;
+	margin-left: 20px;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.logo p a {
+	font-weight: bold;
+	margin: 0;
+	font-size: 30px;
+	text-decoration: none;
+	color: white;
+}
+nav {
+	position: relative;
+	right: -7%;
+	width: 50%;
+	margin-top: auto;
+	margin-bottom: auto
+}
+nav ul li{
+	display: inline-block;
+	line-height: 80px;
+	margin: 0 5px;
+}
+nav ul li a{
+	color: white;
+	font-size: 17px;
+	padding: 13px;
+	border-radius: 100%;
+}
+.container {
+	width: 100%;
+	height: 550px;
+	background-size: 100% 100%;
+	background-image: url(./Assets/Photos/);
+	background-repeat: no-repeat;
+	background-position: fixed;
+}
+.container img {
+	width: 25%;
+	position: relative;
+	left: 50%;
+	margin-top: 10px;
+}
+*/ .hme-pge {
 	display: flex;
 	justify-content: space-evenly;
 }
