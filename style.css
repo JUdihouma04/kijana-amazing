@@ -40,11 +40,18 @@ a:hover {
 	background: red;
 	transition: 0.5s;
 }
+.Tsho {
+	padding-left: 5vw;
+	margin-top: 15px;
+}
 
-.img-1 {
-	width: 30%;
+.img-a {
+	height: 200px;
+	width: 230px;
 	margin-right: 30px;
 }
 .ka-img1 {
-	padding: 10vw;
+	padding: 17px;
+	display: flex;
+	justify-content: center;
 }
