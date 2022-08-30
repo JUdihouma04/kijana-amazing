@@ -44,6 +44,16 @@ a:hover {
 	text-decoration: underline;
 	color: red;
 }
+.actual-lg{
+	height: 400px;
+	width: 230px;
+	margin-left: 300px;
+	margin-top: 50px;
+}
+.hme-pge{
+	display: flex;
+	justify-content: space-evenly;
+}
 .tsho {
 	padding-left: 5vw;
 	margin-top: 50px;
@@ -59,7 +69,6 @@ a:hover {
 	display: flex;
 	justify-content: center;
 	padding: 17px;
-
 }
 .embroid {
 	padding-left: 5vw;
@@ -75,5 +84,4 @@ a:hover {
 	display: flex;
 	justify-content: center;
 	padding: 17px;
-
 }
