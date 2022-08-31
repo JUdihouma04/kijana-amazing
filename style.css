@@ -1,3 +1,5 @@
+
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap");
 * {
 	margin: 0;
@@ -55,7 +57,6 @@ nav ul li a:active {
 }
 .search {
 	color: white;
-	background-color: ;
 	border: none;
 	padding: 10px;
 	margin-top: 3%;
@@ -148,5 +149,4 @@ nav ul li a:active {
 	margin-left: 150px;
 	margin-top: auto;
 	margin-bottom: auto;
-
 }
