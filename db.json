@@ -1,0 +1,44 @@
+{
+    "Tshirts":[
+        {
+            "id":"1",
+            "name":"Kijana Amazing Black",
+            "price":"Ksh.1000"
+        },
+        {
+            "id":"1",
+            "name":"Kijana Amazing Red",
+            "price":"Ksh.1000"
+        },
+        {
+            "id":"1",
+            "name":"Kijana Amazing Yellow",
+            "price":"Ksh.1000"
+        },
+        {
+            "id":"1",
+            "name":"mdonye mdonye merch",
+            "price":"Ksh.1000"
+        },
+        {
+            "id":"1",
+            "name":"Kijana Amazing Red",
+            "price":"Ksh.1000"
+        },
+        {
+            "id":"1",
+            "name":"Kijana Amazing Red",
+            "price":"Ksh.1000"
+        },
+        {
+            "id":"1",
+            "name":"Kijana Amazing Red",
+            "price":"Ksh.1000"
+        },
+        {
+            "id":"1",
+            "name":"Kijana Amazing Red",
+            "price":"Ksh.1000"
+        }
+    ]
+}
