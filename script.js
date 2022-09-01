@@ -1,4 +1,4 @@
-let login = document.querySelector("button")
+let login = document.querySelector();
 login.onclick = function(){
-    GamepadButton.toggle("active")
-}
+    button.classlist.toggle();
+};
