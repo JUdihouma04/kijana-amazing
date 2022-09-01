@@ -32,7 +32,7 @@ nav {
     background-color: grey;
     height: 100px;
     width: 100%;
-    /* z-index: 20; */
+    z-index: 20;
 }
 nav ul li {
     position: relative;
@@ -48,13 +48,14 @@ nav ul li a {
 }
 nav ul li a:hover{
     color: Red;
-    transition: .3s;
+    transition: ease-in.3s;
 }
 a.active,a:hover{
-	transition: .3s;
 	border-bottom: bottom;
 	background: black;
 	border-radius: 2px;
+	transition: ease-in.3s;
+
 }
 .search{
     border: none;
@@ -82,7 +83,7 @@ a.active,a:hover{
 
 /* end of nav bar */
 .provision {
-	margin: 50px;
+	margin: 100px;
 }
 .provision h1 {
 	margin-bottom: 20px;
@@ -247,6 +248,28 @@ transition: 1s;
     text-align: center;
     background-color: grey;
     color: white;
+}
+.bttn{
+	width: 100px;
+	height: 50px;
+	border: 100%;
+	color: white;
+	background-color: grey;
+	border-radius: 15px;
+	box-shadow: inset 0 0 0 0#f9e50600;
+	transition: ease-in.3s;
+	font-size: 1rem;
+	outline: none;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 80%;
+	font-weight: bold;
+
+}
+.bttn:hover{
+	box-shadow: inset 0 0 0 0#f9e50600;
+	cursor: pointer;
+	color: red;	
 }
 
 
