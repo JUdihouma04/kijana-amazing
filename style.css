@@ -110,16 +110,16 @@ a.active,a:hover{
 .image-1{
 	cursor: pointer;
 	box-shadow:
-  6.9px 1px 2.3px rgba(0, 0, 0, 0.017),
-  15.1px 2.2px 5px rgba(0, 0, 0, 0.025),
-  25.3px 3.7px 8.4px rgba(0, 0, 0, 0.031),
-  38.2px 5.6px 12.7px rgba(0, 0, 0, 0.035),
-  55.1px 8px 18.3px rgba(0, 0, 0, 0.04),
-  78px 11.3px 25.9px rgba(0, 0, 0, 0.045),
-  110.6px 16.1px 36.7px rgba(0, 0, 0, 0.049),
-  160.6px 23.4px 53.3px rgba(0, 0, 0, 0.055),
-  247.5px 36px 82.1px rgba(0, 0, 0, 0.063),
-  440px 64px 146px rgba(0, 0, 0, 0.08)
+6.9px 1px 2.3px rgba(0, 0, 0, 0.017),
+15.1px 2.2px 5px rgba(0, 0, 0, 0.025),
+25.3px 3.7px 8.4px rgba(0, 0, 0, 0.031),
+38.2px 5.6px 12.7px rgba(0, 0, 0, 0.035),
+55.1px 8px 18.3px rgba(0, 0, 0, 0.04),
+78px 11.3px 25.9px rgba(0, 0, 0, 0.045),
+110.6px 16.1px 36.7px rgba(0, 0, 0, 0.049),
+160.6px 23.4px 53.3px rgba(0, 0, 0, 0.055),
+247.5px 36px 82.1px rgba(0, 0, 0, 0.063),
+440px 64px 146px rgba(0, 0, 0, 0.08)
 ;
 border-radius: 20px;
 padding-left: 2%;
@@ -140,6 +140,9 @@ transition: 1s;
 	margin-top: 20px;
 	margin-left: 55px;
 }
+.embroid{
+	font-weight: bold;
+}
 .img-b {
 	height: 200px;
 	width: 230px;
@@ -147,16 +150,16 @@ transition: 1s;
 }
 .image-2{
 	box-shadow:
-  6.9px 1px 2.3px rgba(0, 0, 0, 0.017),
-  15.1px 2.2px 5px rgba(0, 0, 0, 0.025),
-  25.3px 3.7px 8.4px rgba(0, 0, 0, 0.031),
-  38.2px 5.6px 12.7px rgba(0, 0, 0, 0.035),
-  55.1px 8px 18.3px rgba(0, 0, 0, 0.04),
-  78px 11.3px 25.9px rgba(0, 0, 0, 0.045),
-  110.6px 16.1px 36.7px rgba(0, 0, 0, 0.049),
-  160.6px 23.4px 53.3px rgba(0, 0, 0, 0.055),
-  247.5px 36px 82.1px rgba(0, 0, 0, 0.063),
-  440px 64px 146px rgba(0, 0, 0, 0.08)
+6.9px 1px 2.3px rgba(0, 0, 0, 0.017),
+15.1px 2.2px 5px rgba(0, 0, 0, 0.025),
+25.3px 3.7px 8.4px rgba(0, 0, 0, 0.031),
+38.2px 5.6px 12.7px rgba(0, 0, 0, 0.035),
+55.1px 8px 18.3px rgba(0, 0, 0, 0.04),
+78px 11.3px 25.9px rgba(0, 0, 0, 0.045),
+110.6px 16.1px 36.7px rgba(0, 0, 0, 0.049),
+160.6px 23.4px 53.3px rgba(0, 0, 0, 0.055),
+247.5px 36px 82.1px rgba(0, 0, 0, 0.063),
+440px 64px 146px rgba(0, 0, 0, 0.08)
 ;
 border-radius: 20px;
 padding-left: 2%;
