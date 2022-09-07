@@ -1,7 +1,7 @@
 # Kijana Amazing 
 
 ##### By Sheldon Odhiambo Ouma
-### It is purchasing brand website 
+### It is purchasing brand website
 
 ## Table of Content
 
@@ -13,9 +13,7 @@
 + [Authors Info](#author-Info)
 
 ## Description
-<p>This is a website that patnership with major companies and also purchasing of the kijana Amazing merchandise</p>
-
-## Installation
+<p>Kijana amazing is a fully customised merchandise website, you get to see the description of the merchandise onc eyou click on the view button</p>
 
 ### Requirements
 
@@ -31,7 +29,7 @@
 
 * CSS - which was used to style the pages incuding the left aside navigation bar
 
-* Javascript- which was used to make the website interactive in knowing the price especially when you view the merchandise.
+* JavaScript- which was used to make the website interactive in knowing the price especially when you view the merchandise.
 
 ## Reference
 * Materialize CSS
