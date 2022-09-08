@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded', ()=>{
 let tName1 = document.getElementById('ama-black')
 let tName2 = document.getElementById('ama-red')
 let tName3 = document.getElementById('ama-yellow')
@@ -32,7 +33,7 @@ fetch(" http://localhost:3000/Tshirts")
     console.log(arrayPrice)
     console.log(arrayName)
     let btn = document.getElementById('view')
-    btn.addEventListener('click', ()=>{
+    tn.addEventListener('click', ()=>{
         tName1.innerHTML = arrayName[0]
         tName2.innerHTML = arrayName[1]
         tName3.innerHTML = arrayName[2]
@@ -57,6 +58,6 @@ fetch(" http://localhost:3000/Tshirts")
     
     
     }
-    }
-
+}
+})
 
